@@ -14,6 +14,6 @@ This project contains Cucumber, Selenium, Java, Maven, logger
 - Logs are generated in the folder automation.out
 
 ## Report
-- After the run target folder would be generated and report can be found at the location - target/cucumber-reports/advanced-reports/extentreports/extent.html
+- After the run, target folder would be generated and report can be found at the location - target/cucumber-reports/advanced-reports/extentreports/extent.html
 
-## There are total of 6 test cases. They can be seen either in the feature file or the report generated in the above step.(Report being an better option)
+## There are total of 6 test cases. They can be seen either in the feature file or the report generated in the above step.(Report being a better option)
