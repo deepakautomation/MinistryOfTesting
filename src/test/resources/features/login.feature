@@ -19,6 +19,8 @@ Examples:
     |qecandidate|invalid           |shouldnot |
     |invalid    |invalid           |shouldnot |
     |           |                  |shouldnot |
+    |           |MUCT-air0tuss3sars|shouldnot |
+    |qecandidate|                  |shouldnot |
     
     
 
