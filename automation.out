@@ -1,0 +1,88 @@
+2021-03-11 19:03:671 INFO  CommonFunctions:32 - enter qecandidate in element [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:685 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:208 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:647 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:679 INFO  CommonFunctions:32 - enter MUCT-air0tuss3sars in element [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:702 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:747 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:968 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:992 INFO  CommonFunctions:39 - click [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:14 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (2425660500b21aff4cf43f9091d9251f)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:70 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:950 INFO  CommonFunctions:42 - Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']' is clicked
+2021-03-11 19:03:962 INFO  Hooks:67 - Verify the login functionality with valid and invalid credentials is pass
+2021-03-11 19:03:47 INFO  CommonFunctions:32 - enter invalid in element [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:64 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:126 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:235 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:253 INFO  CommonFunctions:32 - enter MUCT-air0tuss3sars in element [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:266 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:308 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:541 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:570 INFO  CommonFunctions:39 - click [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:593 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:652 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:110 INFO  CommonFunctions:42 - [[ChromeDriver: chrome on WINDOWS (73769014a326b57b5a8bf811c4fd1238)] -> xpath: //input[@name='commit']] is clicked
+2021-03-11 19:03:113 INFO  Hooks:67 - Verify the login functionality with valid and invalid credentials is pass
+2021-03-11 19:03:256 INFO  CommonFunctions:32 - enter qecandidate in element [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:279 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:323 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:434 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:452 INFO  CommonFunctions:32 - enter invalid in element [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:794 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:844 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:994 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:44 INFO  CommonFunctions:39 - click [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:71 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:171 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:186 INFO  CommonFunctions:42 - [[ChromeDriver: chrome on WINDOWS (1e71a592adaf20fa287cd24a8f9f603f)] -> xpath: //input[@name='commit']] is clicked
+2021-03-11 19:03:188 INFO  Hooks:67 - Verify the login functionality with valid and invalid credentials is pass
+2021-03-11 19:03:740 INFO  CommonFunctions:32 - enter invalid in element [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:765 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:810 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:314 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:341 INFO  CommonFunctions:32 - enter invalid in element [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:352 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:425 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:589 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:633 INFO  CommonFunctions:39 - click [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:650 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:702 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:233 INFO  CommonFunctions:42 - [[ChromeDriver: chrome on WINDOWS (a42fbb0307b963c4fdf310229a830b0b)] -> xpath: //input[@name='commit']] is clicked
+2021-03-11 19:03:235 INFO  Hooks:67 - Verify the login functionality with valid and invalid credentials is pass
+2021-03-11 19:03:247 INFO  CommonFunctions:32 - enter  in element [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:268 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:355 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:434 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:469 INFO  CommonFunctions:32 - enter  in element [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:493 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:535 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:665 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:712 INFO  CommonFunctions:39 - click [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:743 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:795 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:327 INFO  CommonFunctions:42 - [[ChromeDriver: chrome on WINDOWS (0c3f94c808597b99533fcca7f5c43ee9)] -> xpath: //input[@name='commit']] is clicked
+2021-03-11 19:03:329 INFO  Hooks:67 - Verify the login functionality with valid and invalid credentials is pass
+2021-03-11 19:03:779 INFO  CommonFunctions:32 - enter qecandidate in element [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:799 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:879 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:95 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='user_login']]
+2021-03-11 19:03:174 INFO  CommonFunctions:32 - enter MUCT-air0tuss3sars in element [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:212 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:288 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:792 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='user_password']]
+2021-03-11 19:03:823 INFO  CommonFunctions:39 - click [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:840 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@name='commit']]
+2021-03-11 19:03:897 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:554 INFO  CommonFunctions:42 - Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']' is clicked
+2021-03-11 19:03:584 INFO  CommonFunctions:39 - click [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //a[contains(text(),'Discussions')]]
+2021-03-11 19:03:608 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //a[contains(text(),'Discussions')]]
+2021-03-11 19:03:645 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:488 INFO  CommonFunctions:42 - Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Discussions')]' is clicked
+2021-03-11 19:03:753 INFO  CommonFunctions:32 - enter mabl in element [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='search-term']]
+2021-03-11 19:03:779 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='search-term']]
+2021-03-11 19:03:841 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:990 INFO  CommonFunctions:35 - text is entered in [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='search-term']]
+2021-03-11 19:03:05 INFO  CommonFunctions:25 - waiting for element visibilityOf [[ChromeDriver: chrome on WINDOWS (8cb841c3ea82fc585b9647f0aae03989)] -> xpath: //input[@id='search-term']]
+2021-03-11 19:03:60 INFO  CommonFunctions:28 - element is visible..
+2021-03-11 19:03:258 INFO  Hooks:67 - Verify that user is able to search the item is pass
